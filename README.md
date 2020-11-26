@@ -7,15 +7,16 @@ steps performed :
 3) Perform positive and negative tweet analysis.
 4) Create a word-cloud
 5) Analyse for which products what are the sentiments.
-
-**Processed Text**<br>
+<br>
+<br><br>
+**Processed Text**<br><br>
 ![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/fig_1.png)
 
-**Sentiment Analysis**<br>
+**Sentiment Analysis**<br><br>
 ![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/fig_4.png)
 
-**WordCloud**<br>
-![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/wordcloud.png)
+**WordCloud**<br><br>
+![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/cloud.png)
 
-**Sentiment for products**<br>
-![alt text]( https://github.com/ankurawat4/Customer-Analytics/blob/main/fig_3.png )
+**Sentiment for products**<br><br>
+![alt text]( https://github.com/ankurawat4/Customer-Analytics/blob/main/fig_5.png )

@@ -8,7 +8,9 @@ steps performed :
 4) Create a word-cloud
 5) Analyse for which products what are the sentiments.
 <br>
-<br><br>
+<br>
+<br>
+
 **Processed Text**<br><br>
 ![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/fig_1.png)
 

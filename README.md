@@ -9,13 +9,13 @@ steps performed :
 5) Analyse for which products what are the sentiments.
 
 **Processed Text**
-![alt text]( https://github.com/ankurawat4/Customer-Analytics/blob/master/fig_1.png)
+![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/fig_1.png)
 
 **Sentiment Analysis**
-![alt text]( https://github.com/ankurawat4/Customer-Analytics/blob/master/fig_4.png)
+![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/fig_4.png)
 
 **WordCloud**
-![alt text]( https://github.com/ankurawat4/Customer-Analytics/blob/master/wordcloud.png)
+![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/wordcloud.png)
 
 **Sentiment for products**
-![alt text]( https://github.com/ankurawat4/Customer-Analytics/blob/master/fig_3.png)
+![alt text]( https://github.com/ankurawat4/Customer-Analytics/blob/main/fig_2.png )

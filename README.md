@@ -1,5 +1,5 @@
 # Customer-Analytics
-An International E-Commerce company wants to start their operations in India, they want to do a Sentiment analysis(Positive or Negative) of their competitors such as amazon, flipkart, snapdeal.
+Analysis of e-commerce giants like amazon, flipkart, snapdeal customer's satisfaction, if their customers are happy with them or not.
 
 steps performed : 
 1) Extract twitter data for each of the competitors

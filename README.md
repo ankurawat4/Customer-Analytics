@@ -17,6 +17,7 @@ steps performed :
 **Sentiment Analysis**<br><br>
 ![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/fig_4.png)
 
+
 **WordCloud**<br><br>
 ![alt text](https://github.com/ankurawat4/Customer-Analytics/blob/main/cloud.png)
 
